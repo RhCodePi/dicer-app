@@ -1,11 +1,11 @@
 import "./Dice.css";
 import { useState } from "react";
-import one from "D:/Dev/React/dicer-app/src/images/one.jpg";
-import two from "D:/Dev/React/dicer-app/src/images/two.jpg";
-import three from "D:/Dev/React/dicer-app/src/images/three.jpg";
-import four from "D:/Dev/React/dicer-app/src/images/four.jpg";
-import five from "D:/Dev/React/dicer-app/src/images/five.jpg";
-import six from "D:/Dev/React/dicer-app/src/images/six.jpg";
+import one from "D:/Dev/React/dicer-app/src/images/dice1.jpg";
+import two from "D:/Dev/React/dicer-app/src/images/dice2.jpg";
+import three from "D:/Dev/React/dicer-app/src/images/dice3.jpg";
+import four from "D:/Dev/React/dicer-app/src/images/dice4.jpg";
+import five from "D:/Dev/React/dicer-app/src/images/dice5.jpg";
+import six from "D:/Dev/React/dicer-app/src/images/dice6.jpg";
 
 function Dice() {
   const [num1, setNum] = useState(0);

@@ -5,9 +5,11 @@
     margin-top: 20px;
     justify-items: center;
     align-items: center;
+    background-color: lightblue;
 }
 .dice-image{
     border-radius: 25px;
+    width: 300px;
 }
 
 .rolling-button{
